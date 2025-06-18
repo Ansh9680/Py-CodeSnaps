@@ -12,5 +12,4 @@ Rules to define a variable:
         -> It's case-sensitive.
            e.g: 'name' and 'Name' are different kind of stuffs according to variables.
         -> Keywords aren't allowed like: for, if etc.
-Example and TypeCasting......
 """
