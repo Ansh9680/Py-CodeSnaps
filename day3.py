@@ -10,7 +10,7 @@ Type Conversion: Input function always returns a string and takes input in strin
         email = input("Enter your email id: ")
         print(f"Thanks {name}, we've sent an email to {email}")
 
-    f => f-string it's used to access & print values of any variable.
+    f => f-string it's used to access & print value of any variable.
 
 
 """
