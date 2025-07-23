@@ -1,5 +1,5 @@
-👋 Welcome to My X Page!!
-Hey there! I'm your friendly neighborhood coder who loves to share daily (or almost daily!) insights and snippets from the wonderful world of programming on X.
+👋 Welcome to My CodeSnaps Git Page!!
+Hey there! I'm your friendly neighbourhood coder who loves to share daily (or almost daily!) insights and snippets from the wonderful world of programming on X.
 
 If you've landed here, chances are you've seen one of my code snaps pop up on your feed and wanted to know more or just connect!
 
